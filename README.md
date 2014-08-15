@@ -1,7 +1,7 @@
 DesignPatterns
 ==============
 
-Java Examples for the famous [Gang-of-Four Desing Pattern](http://en.wikipedia.org/wiki/Design_Patterns).
+Java Examples to the famous [Gang-of-Four Design Pattern](http://en.wikipedia.org/wiki/Design_Patterns).
 
 ###Creational Patterns
 1. [Abstract Factory Pattern](https://github.com/aerobless/DesignPatterns/tree/master/DesignPatterns/src/ch/theowinter/abstractFactory)

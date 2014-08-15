@@ -24,8 +24,6 @@ class Computer {
 	public int getHddSize() {
 		return hddSize;
 	}
-	
-	
 }
 
 /* Abstract Builder */
